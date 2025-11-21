@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CyberSec Portfolio | Red Teamer & Researcher</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;700;900&family=Rajdhani:wght@300;400;500;600;700&family=Share+Tech+Mono&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- Background Effects -->
+    <canvas id="bg-canvas"></canvas>
+    <div class="overlay"></div>
+    <div class="scanline"></div>
+
+    <!-- Custom Cursor -->
+    <div class="cursor" id="cursor"></div>
+    <div class="cursor-follower" id="cursor-follower"></div>
+
+    <!-- Navigation -->
+    <nav class="glass-nav">
+        <div class="logo">
+            <span class="neon-text">CYBER</span><span class="white-text">SEC</span>
+        </div>
+        <ul class="nav-links">
+            <li><a href="#hero" class="nav-item" data-text="HOME">HOME</a></li>
+            <li><a href="#about" class="nav-item" data-text="ABOUT">ABOUT</a></li>
+            <li><a href="#skills" class="nav-item" data-text="SKILLS">SKILLS</a></li>
+            <li><a href="#projects" class="nav-item" data-text="PROJECTS">PROJECTS</a></li>
+            <li><a href="#experience" class="nav-item" data-text="EXP">EXP</a></li>
+            <li><a href="#contact" class="nav-item" data-text="CONTACT">CONTACT</a></li>
+        </ul>
+        <div class="mobile-menu-btn">
+            <i class="fas fa-bars"></i>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="hero" class="hero-section">
+        <div class="hero-content" data-tilt>
+            <div class="hologram-container">
+                <h1 class="glitch-text" data-text="AKHIL">AKHIL</h1>
+                <div class="hologram-ring"></div>
+            </div>
+            <div class="typewriter-container">
+                <span id="typewriter"></span><span class="cursor-blink">|</span>
+            </div>
+            <p class="hero-subtitle">Securing the Digital Frontier</p>
+            <div class="hero-buttons">
+                <a href="#projects" class="neon-btn primary">
+                    <span class="btn-text">VIEW OPERATIONS</span>
+                    <span class="btn-border"></span>
+                </a>
+                <a href="#contact" class="neon-btn secondary">
+                    <span class="btn-text">INITIATE CONTACT</span>
+                    <span class="btn-border"></span>
+                </a>
+            </div>
+        </div>
+        <div class="scroll-indicator">
+            <span>SCROLL</span>
+            <div class="arrow-down"></div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="section-padding">
+        <div class="container">
+            <h2 class="section-title"><span class="neon-accent">01.</span> ABOUT ME</h2>
+            <div class="about-grid">
+                <div class="about-avatar-container">
+                    <div class="avatar-frame">
+                        <div class="avatar-img">
+                            <!-- Placeholder for avatar, using a cyber icon for now -->
+                            <i class="fas fa-user-secret"></i>
+                        </div>
+                        <div class="rotating-border"></div>
+                    </div>
+                </div>
+                <div class="about-text glass-panel">
+                    <div class="panel-header">
+                        <span class="panel-title">USER_PROFILE.DAT</span>
+                        <div class="panel-controls">
+                            <span class="control red"></span>
+                            <span class="control yellow"></span>
+                            <span class="control green"></span>
+                        </div>
+                    </div>
+                    <div class="panel-body">
+                        <p>I am a passionate <span class="highlight">Cybersecurity Researcher</span> and <span
+                                class="highlight">Ethical Hacker</span> dedicated to uncovering vulnerabilities before
+                            malicious actors do. With a background in Red Teaming and Malware Analysis, I approach
+                            security with an offensive mindset to build stronger defenses.</p>
+                        <div class="stats-container">
+                            <div class="stat-item">
+                                <span class="stat-label">Pwned Boxes</span>
+                                <div class="progress-bar">
+                                    <div class="progress" style="width: 85%"></div>
+                                </div>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-label">CTF Rank</span>
+                                <div class="progress-bar">
+                                    <div class="progress" style="width: 92%"></div>
+                                </div>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-label">Coffee/Hr</span>
+                                <div class="progress-bar">
+                                    <div class="progress" style="width: 100%"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Skills Section -->
+    <section id="skills" class="section-padding">
+        <div class="container">
+            <h2 class="section-title"><span class="neon-accent">02.</span> SKILLS & ARSENAL</h2>
+            <div class="skills-grid">
+                <!-- Skill Card 1 -->
+                <div class="skill-card" data-tilt>
+                    <div class="card-content">
+                        <div class="skill-icon">
+                            <i class="fas fa-bug"></i>
+                        </div>
+                        <h3>Penetration Testing</h3>
+                        <p>Network & Web Application Security Assessment</p>
+                        <div class="skill-level">
+                            <span>MASTERY</span>
+                            <div class="level-dots">
+                                <span class="active"></span><span class="active"></span><span
+                                    class="active"></span><span class="active"></span><span class=""></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Skill Card 2 -->
+                <div class="skill-card" data-tilt>
+                    <div class="card-content">
+                        <div class="skill-icon">
+                            <i class="fas fa-biohazard"></i>
+                        </div>
+                        <h3>Malware Analysis</h3>
+                        <p>Reverse Engineering & Behavior Analysis</p>
+                        <div class="skill-level">
+                            <span>MASTERY</span>
+                            <div class="level-dots">
+                                <span class="active"></span><span class="active"></span><span
+                                    class="active"></span><span class=""></span><span class=""></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Skill Card 3 -->
+                <div class="skill-card" data-tilt>
+                    <div class="card-content">
+                        <div class="skill-icon">
+                            <i class="fas fa-search"></i>
+                        </div>
+                        <h3>Digital Forensics</h3>
+                        <p>Incident Response & Evidence Recovery</p>
+                        <div class="skill-level">
+                            <span>MASTERY</span>
+                            <div class="level-dots">
+                                <span class="active"></span><span class="active"></span><span
+                                    class="active"></span><span class="active"></span><span class=""></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Skill Card 4 -->
+                <div class="skill-card" data-tilt>
+                    <div class="card-content">
+                        <div class="skill-icon">
+                            <i class="fas fa-user-ninja"></i>
+                        </div>
+                        <h3>Red Teaming</h3>
+                        <p>Adversary Simulation & Social Engineering</p>
+                        <div class="skill-level">
+                            <span>MASTERY</span>
+                            <div class="level-dots">
+                                <span class="active"></span><span class="active"></span><span
+                                    class="active"></span><span class="active"></span><span class="active"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects" class="section-padding">
+        <div class="container">
+            <h2 class="section-title"><span class="neon-accent">03.</span> OPERATIONS</h2>
+            <div class="projects-grid">
+                <!-- Project 1 -->
+                <div class="project-card glass-panel">
+                    <div class="project-image">
+                        <div class="overlay-color"></div>
+                        <i class="fas fa-network-wired project-icon-placeholder"></i>
+                    </div>
+                    <div class="project-info">
+                        <h3>Network Vulnerability Scanner</h3>
+                        <p class="project-tech">Python // Scapy // Nmap</p>
+                        <p class="project-desc">Automated tool for detecting open ports and potential vulnerabilities in
+                            local networks.</p>
+                        <div class="project-links">
+                            <a href="#" class="link-btn"><i class="fab fa-github"></i> CODE</a>
+                            <a href="#" class="link-btn"><i class="fas fa-external-link-alt"></i> DEMO</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Project 2 -->
+                <div class="project-card glass-panel">
+                    <div class="project-image">
+                        <div class="overlay-color"></div>
+                        <i class="fas fa-shield-virus project-icon-placeholder"></i>
+                    </div>
+                    <div class="project-info">
+                        <h3>Ransomware Decryptor</h3>
+                        <p class="project-tech">C++ // Cryptography</p>
+                        <p class="project-desc">Utility to recover files encrypted by a specific strain of ransomware
+                            using key analysis.</p>
+                        <div class="project-links">
+                            <a href="#" class="link-btn"><i class="fab fa-github"></i> CODE</a>
+                            <a href="#" class="link-btn"><i class="fas fa-external-link-alt"></i> DEMO</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Project 3 -->
+                <div class="project-card glass-panel">
+                    <div class="project-image">
+                        <div class="overlay-color"></div>
+                        <i class="fas fa-lock project-icon-placeholder"></i>
+                    </div>
+                    <div class="project-info">
+                        <h3>Secure Chat App</h3>
+                        <p class="project-tech">Node.js // Socket.io // E2EE</p>
+                        <p class="project-desc">End-to-end encrypted messaging platform with self-destructing messages.
+                        </p>
+                        <div class="project-links">
+                            <a href="#" class="link-btn"><i class="fab fa-github"></i> CODE</a>
+                            <a href="#" class="link-btn"><i class="fas fa-external-link-alt"></i> DEMO</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Experience Section -->
+    <section id="experience" class="section-padding">
+        <div class="container">
+            <h2 class="section-title"><span class="neon-accent">04.</span> EXPERIENCE LOG</h2>
+            <div class="timeline">
+                <div class="timeline-line"></div>
+
+                <!-- Item 1 -->
+                <div class="timeline-item left">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-content glass-panel" data-tilt>
+                        <span class="date">2023 - Present</span>
+                        <h3>Senior Security Analyst</h3>
+                        <h4>CyberDefense Corp</h4>
+                        <p>Leading red team operations and conducting advanced penetration tests on critical
+                            infrastructure.</p>
+                    </div>
+                </div>
+
+                <!-- Item 2 -->
+                <div class="timeline-item right">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-content glass-panel" data-tilt>
+                        <span class="date">2021 - 2023</span>
+                        <h3>Penetration Tester</h3>
+                        <h4>SecureNet Solutions</h4>
+                        <p>Performed web application security assessments and vulnerability management for fintech
+                            clients.</p>
+                    </div>
+                </div>
+
+                <!-- Item 3 -->
+                <div class="timeline-item left">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-content glass-panel" data-tilt>
+                        <span class="date">2019 - 2021</span>
+                        <h3>Junior Security Researcher</h3>
+                        <h4>BugBounty Hunter</h4>
+                        <p>Independent security research, reporting critical vulnerabilities in major platforms.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Certifications Section -->
+    <section id="certifications" class="section-padding">
+        <div class="container">
+            <h2 class="section-title"><span class="neon-accent">05.</span> CERTIFICATIONS</h2>
+            <div class="certs-grid">
+                <div class="cert-card glass-panel">
+                    <div class="cert-badge">
+                        <i class="fas fa-certificate"></i>
+                    </div>
+                    <h3>OSCP</h3>
+                    <p>Offensive Security Certified Professional</p>
+                </div>
+                <div class="cert-card glass-panel">
+                    <div class="cert-badge">
+                        <i class="fas fa-shield-alt"></i>
+                    </div>
+                    <h3>CEH</h3>
+                    <p>Certified Ethical Hacker</p>
+                </div>
+                <div class="cert-card glass-panel">
+                    <div class="cert-badge">
+                        <i class="fas fa-user-graduate"></i>
+                    </div>
+                    <h3>CISSP</h3>
+                    <p>Certified Information Systems Security Professional</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="section-padding">
+        <div class="container">
+            <h2 class="section-title"><span class="neon-accent">06.</span> ESTABLISH UPLINK</h2>
+            <div class="contact-wrapper glass-panel">
+                <div class="terminal-header">
+                    <div class="buttons">
+                        <span class="close"></span>
+                        <span class="minimize"></span>
+                        <span class="maximize"></span>
+                    </div>
+                    <div class="title">root@contact-terminal:~</div>
+                </div>
+                <div class="terminal-body">
+                    <form id="contact-form">
+                        <div class="form-group">
+                            <label for="name">> Enter Identity:</label>
+                            <input type="text" id="name" placeholder="_" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="email">> Enter Frequency (Email):</label>
+                            <input type="email" id="email" placeholder="_" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="message">> Transmit Message:</label>
+                            <textarea id="message" rows="5" placeholder="_" required></textarea>
+                        </div>
+                        <button type="submit" class="neon-btn submit-btn">
+                            <span class="btn-text">SEND TRANSMISSION</span>
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="footer-content">
+            <div class="social-links">
+                <a href="#"><i class="fab fa-github"></i></a>
+                <a href="#"><i class="fab fa-linkedin"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
+            </div>
+            <p class="copyright">© 2025 AKHIL // SYSTEM SECURE</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
