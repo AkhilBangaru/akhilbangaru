@@ -679,7 +679,7 @@ body {
 .timeline-item {
     position: relative;
     width: 50%;
-    padding: 20px 40px;
+    padding: 20px 60px;
     box-sizing: border-box;
 }
 
@@ -716,6 +716,11 @@ body {
     padding: 20px;
     position: relative;
     transition: 0.3s;
+    /* Fix for glassmorphism glitch during tilt */
+    transform-style: preserve-3d;
+    backface-visibility: hidden;
+    will-change: transform;
+    transform: translateZ(0);
 }
 
 .timeline-content:hover {
