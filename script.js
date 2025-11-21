@@ -202,3 +202,41 @@ menuBtn.addEventListener('click', () => {
         navLinks.style.borderBottom = '1px solid var(--neon-cyan)';
     }
 });
+
+/* =========================================
+   7. CONTACT FORM HANDLING
+   ========================================= */
+const contactForm = document.getElementById('contact-form');
+
+if (contactForm) {
+    contactForm.addEventListener('submit', (e) => {
+        e.preventDefault();
+
+        const name = document.getElementById('name').value;
+        const email = document.getElementById('email').value;
+        const message = document.getElementById('message').value;
+
+        // Construct the email body
+        const subject = `Portfolio Transmission from ${name}`;
+        const body = `Name: ${name}%0D%0AEmail: ${email}%0D%0A%0D%0AMessage:%0D%0A${message}`;
+
+        // Replace with your actual email address
+        const myEmail = 'akhilbangaru3355@gmail.com';
+
+        // Construct mailto link
+        const mailtoLink = `mailto:${myEmail}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(`Name: ${name}\nEmail: ${email}\n\nMessage:\n${message}`)}`;
+
+        // Open mail client
+        window.location.href = mailtoLink;
+
+        // Visual feedback
+        const btn = contactForm.querySelector('button');
+        const originalText = btn.innerHTML;
+        btn.innerHTML = '<span class="btn-text">TRANSMISSION INITIATED...</span>';
+
+        setTimeout(() => {
+            btn.innerHTML = originalText;
+            contactForm.reset();
+        }, 3000);
+    });
+}
