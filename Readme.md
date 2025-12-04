@@ -1,76 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-    xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 900 60"
-    style="background-color: transparent;"
-    width="900px" height="60px">
 
-  <style>
-    @font-face {
-      font-family: 'Fira Code';
-      font-style: normal;
-      font-weight: 400;
-      src: local("Fira Code"), local("FiraCode");
-    }
 
-    text {
-      filter: drop-shadow(0 0 6px #00ff99);
-    }
-  </style>
+# 💫 About Me:
+🔐 Cybersecurity enthusiast exploring offensive security & red teaming.<br>💻 I love building security tools, honeypots, and automation systems.<br>🧠 Always learning vulnerabilities, threat analysis, and exploit techniques.<br>🚀 Working on advanced detection systems & real-time attack dashboards.<br>🤝 Open to collaborations, security research, and innovative projects.
 
-  <!-- LINE 1 -->
-  <path id="path0" d="m0,30 h0">
-    <animate id="d0" attributeName="d" begin="0s;d3.end"
-      dur="4500ms" fill="remove"
-      values="m0,30 h0; m0,30 h900; m0,30 h900; m0,30 h0"
-      keyTimes="0;0.6;0.85;1" />
-  </path>
-  <text font-family="Fira Code, monospace" fill="#00FF99" font-size="38"
-    dominant-baseline="middle" x="50%" text-anchor="middle">
-    <textPath xlink:href="#path0">
-      👨‍💻 Akhil — Cybersecurity Explorer
-    </textPath>
-  </text>
 
-  <!-- LINE 2 -->
-  <path id="path1" d="m0,30 h0">
-    <animate id="d1" attributeName="d" begin="d0.end"
-      dur="4500ms" fill="remove"
-      values="m0,30 h0; m0,30 h900; m0,30 h900; m0,30 h0"
-      keyTimes="0;0.6;0.85;1" />
-  </path>
-  <text font-family="Fira Code, monospace" fill="#00FF99" font-size="38"
-    dominant-baseline="middle" x="50%" text-anchor="middle">
-    <textPath xlink:href="#path1">
-      🔐 Passionate About Red Teaming & OffSec
-    </textPath>
-  </text>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akhil_bangaru_2101) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akhilbangaru3355@gmail.com) 
 
-  <!-- LINE 3 -->
-  <path id="path2" d="m0,30 h0">
-    <animate id="d2" attributeName="d" begin="d1.end"
-      dur="4500ms" fill="remove"
-      values="m0,30 h0; m0,30 h900; m0,30 h900; m0,30 h0"
-      keyTimes="0;0.6;0.85;1" />
-  </path>
-  <text font-family="Fira Code, monospace" fill="#00FF99" font-size="38"
-    dominant-baseline="middle" x="50%" text-anchor="middle">
-    <textPath xlink:href="#path2">
-      🕵️‍♂️ Hunting Vulnerabilities. Building Defenses.
-    </textPath>
-  </text>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AkhilBangaru&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AkhilBangaru&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilBangaru&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkhilBangaru/AkhilBangaru/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkhilBangaru/AkhilBangaru/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AkhilBangaru/AkhilBangaru/output/pacman-contribution-graph.svg">
+</picture>
 
-  <!-- LINE 4 -->
-  <path id="path3" d="m0,30 h0">
-    <animate id="d3" attributeName="d" begin="d2.end"
-      dur="4500ms" fill="remove"
-      values="m0,30 h0; m0,30 h900; m0,30 h900; m0,30 h0"
-      keyTimes="0;0.6;0.85;1" />
-  </path>
-  <text font-family="Fira Code, monospace" fill="#00FF99" font-size="38"
-    dominant-baseline="middle" x="50%" text-anchor="middle">
-    <textPath xlink:href="#path3">
-      ⚠️ Stay Secure. Stay Curious. Stay Ahead.
-    </textPath>
-  </text>
+###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
-</svg>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AkhilBangaru&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=AkhilBangaru&icon=0&color=4)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
