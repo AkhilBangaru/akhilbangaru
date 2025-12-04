@@ -2,7 +2,8 @@
 # 💫 About Me:
 🔐 Cybersecurity enthusiast exploring offensive security & red teaming.<br>💻 I love building security tools, honeypots, and automation systems.<br>🧠 Always learning vulnerabilities, threat analysis, and exploit techniques.<br>🚀 Working on advanced detection systems & real-time attack dashboards.<br>🤝 Open to collaborations, security research, and innovative projects.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=F71A0C&vCenter=true&width=435&lines=Cybersecurity+Student+with+a+passion+for+Red+Teaming;Exploring+ethical+hacking%2C+automation%2C+and+system+security;Driven+to+master+offensive+security+and+real-world+cyber+threats)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=F71A0C&vCenter=true&width=1270&lines=Cybersecurity+Student+with+a+passion+for+Red+Teaming;Exploring+ethical+hacking%2C+automation%2C+and+system+security;Driven+to+master+offensive+security+and+real-world+cyber+threats)](https://git.io/typing-svg)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akhil_bangaru_2101) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akhilbangaru3355@gmail.com) 
 
