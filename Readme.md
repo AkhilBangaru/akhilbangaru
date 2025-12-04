@@ -1,9 +1,8 @@
 
-
 # 💫 About Me:
 🔐 Cybersecurity enthusiast exploring offensive security & red teaming.<br>💻 I love building security tools, honeypots, and automation systems.<br>🧠 Always learning vulnerabilities, threat analysis, and exploit techniques.<br>🚀 Working on advanced detection systems & real-time attack dashboards.<br>🤝 Open to collaborations, security research, and innovative projects.
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=F71A0C&vCenter=true&width=435&lines=Cybersecurity+Student+with+a+passion+for+Red+Teaming;Exploring+ethical+hacking%2C+automation%2C+and+system+security;Driven+to+master+offensive+security+and+real-world+cyber+threats)](https://git.io/typing-svg)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akhil_bangaru_2101) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akhilbangaru3355@gmail.com) 
 
@@ -36,4 +35,11 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AkhilBangaru&icon=0&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img align="left" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemtrNzZqNno0Z3drcHdkaDViMHBoem1tNWJ6d3JycGExZ2p6cjRsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HCkbgKLdLWq3OCV8YM/giphy.gif"  />
+
+###
+
+<img align="left" height="160" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjdoamNlMmJidG5jcmdmczZvZDcweGFlcmc5eTVjeWFiZ2N3aDM3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wiTY1JMB6xvUUjuPRH/giphy.gif"  />
+
+###
+
