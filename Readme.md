@@ -12,11 +12,13 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AkhilBangaru&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+
 ---
+-->
 [![](https://visitcount.itsvg.in/api?id=AkhilBangaru&icon=0&color=4)](https://visitcount.itsvg.in)
 
 <img align="left" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemtrNzZqNno0Z3drcHdkaDViMHBoem1tNWJ6d3JycGExZ2p6cjRsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HCkbgKLdLWq3OCV8YM/giphy.gif"  />
