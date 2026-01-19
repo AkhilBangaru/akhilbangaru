@@ -7,10 +7,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=F71A0C&vCenter=true&width=1270&lines=Cybersecurity+Student+with+a+passion+for+Red+Teaming;Exploring+ethical+hacking%2C+automation%2C+and+system+security;Driven+to+master+offensive+security+and+real-world+cyber+threats)](https://git.io/typing-svg)
 
-# 🌐 Socials:
+### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akhil_bangaru_2101) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akhilbangaru3355@gmail.com) 
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,html,mysql,vim,bash,powershell,pytorch,notion,obsidian,vercel,vscode,git,figma,pycharm,clion,idea,linux,ubuntu,kali,debian,arch,redhat,windows,wordpress,docker&perline=4)](https://skillicons.dev)
 
 <!--
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-# 📊 GitHub Stats
+### 📊 GitHub Stats
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akhilbangaru&theme=dracula)
